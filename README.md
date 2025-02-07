@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World! I'm Divyam 👋:
-<br>🎓 Computer Science Student<br>🧮 Exploring Data Analytics and Data Science for real-world applications<br>🛡️ DIY Enthusiast: Built my own VPNs (OpenVPN & WireGuard) for gaming<br>🕹️ Optimizing my devices to get low ping while playing Valorant<br><br>🌱 Currently Learning:<br><br>- Starting to learn Front-End Development<br>- Modern web frameworks for analytics dashboards<br>- Advanced Data Visualization Techniques<br><br>
+<br>🎓 Computer Science Student<br>🧮 Exploring Data Analytics and Data Science for real-world applications<br>🛡️ DIY Enthusiast: Built my own VPNs (WireGuard & wstunnel)<br><br>🌱 Currently Learning:<br>- Starting to learn Front-End Development<br>- Modern web frameworks for analytics dashboards<br>- Advanced Data Visualization Techniques<br><br>
 
 
 
